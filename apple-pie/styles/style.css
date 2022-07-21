@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+}
+
+body {
+    font-size: 16px;
+    font-family:'Roboto', sans-serif;
+}
+
+header {
+   background-image: url(/apple-pie/images/apple-pie.jpg);
+   width: 100%;
+   height: 600px;
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.all {
+    padding: 2em;
+}
+
+h1 {
+    font-size: 5rem;
+    color: white    
+}
+
+h2 {
+    padding: 2rem 0rem 2rem 0rem;
+}
+
+ul {
+    list-style-type: none;
+    margin-bottom: 2rem;
+}
